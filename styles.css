@@ -1,0 +1,59 @@
+html {
+    scroll-behavior: smooth;
+}
+.dropdown-menu a.dropdown-item {
+color: #ffffff; 
+}
+
+.dropdown-menu a.dropdown-item:hover {
+color: #ff0000; 
+}
+body {
+    background-color: #000;
+    color: #fff;
+}
+.dropdown-menu {
+    background-color: black;
+    
+}
+.container{
+    max-width: 1200px;
+    margin: 0px auto;
+}
+.card {
+    background-color: #000;
+    color: #fff;
+}
+.card-title {
+    color: #fff;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(1);
+}
+.form-control {
+    background-color: #000;
+    color: #fff;
+}
+.modal-content {
+    background-color: #000;
+    color: #fff;
+}
+.modal-header {
+    background-color: #343a40;
+    color: #fff;
+    border-bottom: none;
+}
+.modal-footer {
+    background-color: #343a40;
+    color: #fff;
+}
+#contact-section .form-control {
+    background-color: #000;
+    color: #fff;
+}
+.card-img-top {
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    width: 90%;
+}
